@@ -1,0 +1,21 @@
+@import "bootstrap/scss/bootstrap";
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: linear-gradient(to right, #007bff, #6610f2);
+}
+
+.carousel-item img {
+    object-fit: cover;
+    height: 400px;
+}
+
+footer {
+    margin-top: 50px;
+}
